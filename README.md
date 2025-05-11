@@ -211,6 +211,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contributors
 
-- The BLUEST FLAME Team - Lead by Vanjinathan A
+- The BLUEST FLAME Team - Led by Vanjinathan A
   ![Bluest Flame SW-017-page-00008](https://github.com/user-attachments/assets/9e18492f-20f7-45b2-a3c6-2df40577656e)
 
