@@ -1,0 +1,30 @@
+{
+  "name": "resumeanalyzer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "framer-motion": "^12.9.2",
+    "next": "15.3.1",
+    "react": "^19.0.0",
+    "react-circular-progressbar": "^2.2.0",
+    "react-dom": "^19.0.0",
+    "react-gauge-component": "^1.2.64",
+    "react-markdown": "^10.1.0",
+    "react-pdf": "^9.2.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.1",
+    "tailwindcss": "^4"
+  }
+}

@@ -1,0 +1,13 @@
+spacy
+fastapi
+pdfminer.six
+requests
+python-jobspy
+python-dotenv
+sentence-transformers
+gensim
+torch
+PyPDF2
+language-tool-python
+google-generativeai
+uvicorn
