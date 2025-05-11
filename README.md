@@ -8,6 +8,7 @@ This project consists of two main components:
 
 - A FastAPI backend for AI-powered resume analysis
 - A Next.js frontend for user interaction
+![Bluest Flame SW-017-page-00006](https://github.com/user-attachments/assets/eb0560a6-f951-4c9c-a61f-e385f25a7a1e)
 
 The application helps job seekers by:
 
@@ -30,6 +31,7 @@ The application helps job seekers by:
 - **Interview Preparation**: Get AI-generated interview questions to help prepare
 
 ## Tech Stack
+![Bluest Flame SW-017-page-00003](https://github.com/user-attachments/assets/1dc658da-5bab-4cea-9123-20eccf39e7f4)
 
 ### Backend
 
@@ -115,6 +117,7 @@ yarn dev
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## How It Works
+![Bluest Flame SW-017-page-00005](https://github.com/user-attachments/assets/f9342147-b42e-4c71-9f6d-8197e194703a)
 
 ### Resume Upload Flow
 
@@ -208,4 +211,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contributors
 
-- The BLUEST FLAME Team
+- The BLUEST FLAME Team - Lead by Vanjinathan A
+  ![Bluest Flame SW-017-page-00008](https://github.com/user-attachments/assets/9e18492f-20f7-45b2-a3c6-2df40577656e)
+
